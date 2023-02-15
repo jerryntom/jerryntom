@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jerryntom
+- 👋 Hi, I’m jerryntom
 - 👀 I'm interested in computer technologies, photography, music and people
 - 🌱 I'm currently working on cool and innovative projects brought to life with use of Python
 - 💞️ I'm looking to collaborate on various projects that can change people's life 
