@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaroslaw, 
+- 👋 Hi, I’m Jaroslaw
 - 👀 I'm interested in data analysis
 - 🌱 Studying computer science to create software making positive impact
 - 💞️ I'm looking to collaborate on various projects that can change people's life 
