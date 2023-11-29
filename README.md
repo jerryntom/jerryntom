@@ -2,7 +2,6 @@
 - 👀 I'm interested in data analysis
 - 🌱 Studying computer science to create software that makes a positive impact
 - 📫 You can reach me here: jaroslawtomczuk.ofi@gmail.com
-- :mag_right: Check my projects: https://jaroslawtomczukofi.wixsite.com/tomczuk
 - :bell: Check my Linkedin: https://www.linkedin.com/in/jerryntom/
 
 <!---
