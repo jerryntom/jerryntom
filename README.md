@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaroslaw
-- 👀 I'm interested in data analysis
-- 🌱 Studying computer science to create software that makes a positive impact
+- 👀 I'm interested in data analysis, software development and project management
+- 🌱 Studying computer science and working as Mainframe Developer (COBOL, CICS, JCL, DB2)
 - 📫 You can reach me here: jaroslawtomczuk.ofi@gmail.com
 - 🔔 Check my Linkedin: https://www.linkedin.com/in/jerryntom/
 
